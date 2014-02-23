@@ -1,0 +1,12 @@
+Package: starchart
+Type: Package
+Title: Recursive Partitioning Using Regression Trees
+Version: 1.0
+Date: 2014-02-23
+Author: Wenhao Jia
+Maintainer: Wenhao Jia <wjia@princeton.edu>
+Description: This package implements Starchart, a regression tree-based tool
+  that recursively partitions a (GPU) program's software and hardware design
+  space using design parameter values as predictors and measured performance, 
+  power, or another metric as responses.
+License: file LICENSE

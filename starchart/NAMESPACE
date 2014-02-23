@@ -1,0 +1,7 @@
+export(starchart)
+export(starchart.default)
+export(print.starchart)
+export(summary.starchart)
+export(print.summary.starchart)
+export(predict.starchart)
+export(plot.starchart)
